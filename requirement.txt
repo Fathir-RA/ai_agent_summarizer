@@ -1,0 +1,4 @@
+#Daftar Library yang digunakan
+PyPDF2
+colorama
+pathlib

@@ -74,3 +74,6 @@ Pastikan Anda sudah menginstall Python 3.x di komputer Anda.
 ---
 
 ## 📂 Struktur Project
+smart-pdf-summarizer/ │ ├── pdf_agent.py # Main Script (AI Logic & Interface) ├── README.md # Dokumentasi Project └── requirements.txt # Daftar Library
+
+**Author:** [Fathir Raihan Muhammad]

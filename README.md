@@ -74,10 +74,10 @@ Pastikan Anda sudah menginstall Python 3.x di komputer Anda.
 ---
 
 ## 📂 Struktur Project
-ai-agent-summarizer/
-    │ 
-    ├── pdf_agent.py # Main Script (AI Logic & Interface) 
-    ├── README.md # Dokumentasi Project 
-    └── requirements.txt # Daftar Library
+ai_agent_summarizer/
+    pdf_agent.py # Main Script (AI Logic & Interface)
+    README.md # Dokumentasi Project 
+    requirements.txt # Daftar Library
+
 
 **Author:** [Fathir Raihan Muhammad]
